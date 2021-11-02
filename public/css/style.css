@@ -1,0 +1,29 @@
+
+.set-background{
+    background-color: black;
+    background-image:url('/images/diw.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back_img{
+    background-image: url('/images/diwgif.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.set-bg{
+    background-color: black;
+
+}
+.set-color{
+    color:rgb(200, 218, 40);
+   text-transform: uppercase;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight:500
+   
+}
+.wish{
+    color:rgb(200, 218, 40);
+   text-transform: uppercase;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight:500
+}
